@@ -1,5 +1,4 @@
-# startpage
-My startpage, edited from github.com/kencx
+based on github.com/kencx
 
 # How to use?
 
